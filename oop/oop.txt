@@ -1,0 +1,11 @@
+class & object = fruit {orange,pinaple}
+access modifier = private , protected , public
+constructor = calss name nu function without return type
+encapsulation = private mathi levu getter and setter methods
+abstraction = the process of hiding the internal details of an application from the outer world. decribe in simple terms
+inheritance = When a class derives from another class.
+polymorphisum = describes situations in which something occurs in several different forms (same function in different class)
+                compile time = over loding / run time = over riding
+
+method over riding = when the method signature is the same in different class with same parameters.
+method over loding = when two or more methods in the same class have the same name but different parameters.

@@ -1,0 +1,11 @@
+template thi koi coustom data type T aapi sakay
+variable na data type pan chane kari sakay
+
+pop atle nikadvu
+puch atle nakhvu
+
+STl = containers + algo + inerator
+
+containers -- 1. sequence - linear vector, list, deque
+        -- 2. associative - direct access sel/ml set map /ml map
+        -- 3. derived - stack(LIFO), queue(FIFO), priority queue
