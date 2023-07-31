@@ -20,4 +20,5 @@ void main()
 }
 
 //*(a + i) is equivalent to a[i] to array notation  
+// * use in .begin() like function to get value of it 
 
