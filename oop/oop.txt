@@ -1,11 +1,33 @@
+what is diff between c & c++
+c - procedure oriented programing (only function) 
+    the program is divided into functions and global data is used for data flow.
+c++ - object oriented programing   (one object has -> data & function)
+    Object-oriented programming is about organizing data and functions together for easier access and protection
+
+
 class & object = fruit {orange,pinaple}
+    class is user define data-types
+    Variables of class are called objects
+
 access modifier = private , protected , public
-constructor = calss name nu function without return type
+
+constructor = class name nu function without any return type use for makeing objects
+    when an object is created
+destructor = when an object is deleted
+
 encapsulation = private mathi levu getter and setter methods
+    Encapsulation in object-oriented programming ensures that data can only be accessed from the functions of the class in which it is defined
+
 abstraction = the process of hiding the internal details of an application from the outer world. decribe in simple terms
+
 inheritance = When a class derives from another class.
+
 polymorphisum = describes situations in which something occurs in several different forms (same function in different class)
                 compile time = over loding / run time = over riding
+
+virtual function & abstract class
+
+friend function
 
 method over riding = when the method signature is the same in different class with same parameters.
 method over loding = when two or more methods in the same class have the same name but different parameters.

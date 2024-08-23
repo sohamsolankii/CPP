@@ -1,5 +1,4 @@
-#include <iostream>
-#include<string>
+#include<bits/stdc++.h>
 using namespace std;
 
 class Book {
@@ -24,8 +23,8 @@ public:
 		cout << "Constructor invoked for "+Title<<endl;
 	}
 
-	~Book() {
-		//use for array
+	~Book() {																			// constructor start with class name 
+		//use for array																	// destructor start with ~(class name)
 		delete [] Rates;
 		Rates = nullptr;
 		//use for simple types
